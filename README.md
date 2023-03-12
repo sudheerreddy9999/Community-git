@@ -1,2 +1,2 @@
 # Community-git.pavan
-thotop
+thotop.pavan
